@@ -1,23 +1,23 @@
-#Green Basket
+## Green Basket
 
-#E-R Diagram
+<h3>E-R Diagram</h3>
 
 
 ![E-R Diagram](https://user-images.githubusercontent.com/107461052/212683690-1910c6e2-cb10-409e-b1ee-d94c6c18f246.png)
 
 <br>
 <br>
-#WorkFlow
-<br>
+<h3> WorkFlow</h3>
+<hr>
 
 ![WorkFlow](https://user-images.githubusercontent.com/107461052/212683750-11c64541-9c01-4137-9e1f-539b31994b85.png)
 
 
 
 
-# GreenBasket (Online Vegetable Sales Application)
-# FrontEnd And BackEnd(REST API)for an Online Vegetable Sales Application
-<br>
+## GreenBasket (Online Vegetable Sales Application)
+## FrontEnd And BackEnd(REST API)for an Online Vegetable Sales Application
+<hr>
 <br>
 <img src="https://user-images.githubusercontent.com/107461052/212683987-3cf29572-7af3-4b84-bc8d-57c594f8a75e.png"  width="300" height="200" position="center">
 
